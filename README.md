@@ -1,7 +1,7 @@
 
 
-# Project Name
 Hello Microverse
+
 This Project is for learning git, github and github flow for beginner Micronauts. It teaches new students to get used to the github flow and practice clone, push and pull requests using git and github.
 
 Languages Used
