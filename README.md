@@ -2,42 +2,25 @@
 
 Hello Microverse
 
-This Project is for learning git, github and github flow for beginner Micronauts. It teaches new students to get used to the github flow and practice clone, push and pull requests using git and github.
+  This Project is for learning git, github and github flow for beginner Micronauts. It teaches new students to get used to the github flow and practice clone, push and   pull requests using git and github.
 
 Languages Used
-- HTML
-- CSS
+  - HTML
+  - CSS
 
-Live Demo not available 
-
-To get a Local copy up and running follow the steps below:
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-## Authors
+Live Demo
+  Live Demo not available 
 
 👤 **Author1**
-
-- GitHub:  [@githubhandle](https://github.com/githubhandle)](https://github.com/studiosnabeel)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)](https://twitter.com/StudiosNabeel)
-- LinkedIn: https://www.linkedin.com/in/nabeel-studios-7a474924a/
+  - GitHub:  [@githubhandle](https://github.com/githubhandle)](https://github.com/studiosnabeel)
+  - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)](https://twitter.com/StudiosNabeel)
+  - LinkedIn: https://www.linkedin.com/in/nabeel-studios-7a474924a/
 
 ## Show your support
-
-Give a ⭐️ if you like this project!
+  Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Thankyou to Mr. solomon for giving me some valuable tips to understand this project.
+  - Thankyou to Mr. solomon for giving me some valuable tips to understand this project.
 
 ## 📝 License
-This project has no License
+  This project has no License
