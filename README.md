@@ -2,20 +2,15 @@
 
 # Project Name
 Hello Microverse
-> Description the project.
 This Project is for learning git, github and github flow for beginner Micronauts. It teaches new students to get used to the github flow and practice clone, push and pull requests using git and github.
 
 Languages Used
-
 - HTML
 - CSS
 
-
-Live Demo 
-
 Live Demo not available 
 
-To get a local copy up and running follow these simple example steps.
+To get a Local copy up and running follow the steps below:
 
 ### Prerequisites
 
