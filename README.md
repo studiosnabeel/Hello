@@ -1,26 +1,54 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Hello Microverse
+
+This is my first project in microverse to learn how to setup linters and work with git github and github flow.
 
 
-Hello Microverse
+## Built With
 
-  This Project is for learning git, github and github flow for beginner Micronauts. It teaches new students to get used to the github flow and practice clone, push and   pull requests using git and github.
+HTML
+CSS
+Git
+Github
 
-Languages Used
-  - HTML
-  - CSS
+## Getting Started
 
-Live Demo
-  Live Demo not available 
+To get a local copy up and running follow these simple example steps.
 
-👤 **Author1**
-  - GitHub:  [@githubhandle](https://github.com/githubhandle)](https://github.com/studiosnabeel)
-  - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)](https://twitter.com/StudiosNabeel)
-  - LinkedIn: https://www.linkedin.com/in/nabeel-studios-7a474924a/
+### Prerequisites
+Google Chrome, Opera or any browser
+
+### Setup
+run git clone git@github.com:studiosnabeel/Hello.git
+open index.html in the browser
+
+## Authors
+
+👤 Nabeel Akbar
+
+- GitHub: https://github.com/studiosnabeel
+- Twitter: https://twitter.com/StudiosNabeel
+- LinkedIn: https://www.linkedin.com/in/nabeel-studios-7a474924a/
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
-  Give a ⭐️ if you like this project!
+
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-  - Thankyou to Mr. solomon for giving me some valuable tips to understand this project.
 
-## 📝 License
-  This project has no License
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+
+
+
+
